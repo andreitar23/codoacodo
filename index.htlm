@@ -6,6 +6,7 @@
   <title>codo a codo </title>
 </head>
 <body>
+<main>
   <h1>hola mundo</h1>
  <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/08/117459-sorpresa-reboot-serie-alf-extraterrestre-esta-marcha-segun-nbc.jpg?tf=1920x">
             <p class="descripcion">
@@ -16,6 +17,6 @@
                 the story of a professor's young daughters Satsuki and Mei, and their
                 interactions with friendly wood spirits in postwar rural Japan.
                 人類社会のすべての構成員の固有の尊厳と平等で譲ることのできない権利とを承認することは
-  
+  </main>
 </body>
 </html>
